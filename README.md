@@ -1,1 +1,1 @@
-# PI-MBGNN
+# Graph-PINNs
